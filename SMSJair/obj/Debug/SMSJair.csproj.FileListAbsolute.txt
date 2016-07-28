@@ -1,0 +1,9 @@
+c:\users\jairfrancesco\documents\visual studio 2015\Projects\SMSJair\SMSJair\bin\Debug\SMSJair.exe.config
+c:\users\jairfrancesco\documents\visual studio 2015\Projects\SMSJair\SMSJair\bin\Debug\SMSJair.exe
+c:\users\jairfrancesco\documents\visual studio 2015\Projects\SMSJair\SMSJair\bin\Debug\SMSJair.pdb
+c:\users\jairfrancesco\documents\visual studio 2015\Projects\SMSJair\SMSJair\obj\Debug\SMSJair.csprojResolveAssemblyReference.cache
+c:\users\jairfrancesco\documents\visual studio 2015\Projects\SMSJair\SMSJair\obj\Debug\SMSJair.Form1.resources
+c:\users\jairfrancesco\documents\visual studio 2015\Projects\SMSJair\SMSJair\obj\Debug\SMSJair.Properties.Resources.resources
+c:\users\jairfrancesco\documents\visual studio 2015\Projects\SMSJair\SMSJair\obj\Debug\SMSJair.csproj.GenerateResource.Cache
+c:\users\jairfrancesco\documents\visual studio 2015\Projects\SMSJair\SMSJair\obj\Debug\SMSJair.exe
+c:\users\jairfrancesco\documents\visual studio 2015\Projects\SMSJair\SMSJair\obj\Debug\SMSJair.pdb
